@@ -20,3 +20,5 @@ if __name__=='__main__':
     print(check_available())
     print(split_odd)
     print("test branch")
+    print("1")
+    print("2")
